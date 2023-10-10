@@ -1,0 +1,11 @@
+G:\Ifdyt\Seminario\CiberKiosco\bin\Debug\CiberKiosco.exe.config
+G:\Ifdyt\Seminario\CiberKiosco\bin\Debug\CiberKiosco.exe
+G:\Ifdyt\Seminario\CiberKiosco\bin\Debug\CiberKiosco.pdb
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.csproj.AssemblyReference.cache
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.csproj.SuggestedBindingRedirects.cache
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.Properties.Resources.resources
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.csproj.GenerateResource.cache
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.csproj.CoreCompileInputs.cache
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.exe
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.pdb
+G:\Ifdyt\Seminario\CiberKiosco\obj\Debug\CiberKiosco.frmPrincipal.resources
