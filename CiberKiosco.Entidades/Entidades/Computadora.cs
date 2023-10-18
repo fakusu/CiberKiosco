@@ -8,13 +8,13 @@ namespace CiberKiosco.Entidades.Entidades
 {
     public class Computadora
     {
-        public Computadora(int id, int nroComputadora)
+        public Computadora(int idComputadora, int nroComputadora)
         {
-            Id = id;
+            IdComputadora = idComputadora;
             NroComputadora = nroComputadora;
         }
 
-        public int Id { get; set; }
+        public int IdComputadora { get; set; }
         public int NroComputadora { get; set; }
 
     }

@@ -22,5 +22,22 @@ namespace CiberKiosco
             frmCiber frm = new frmCiber();
             frm.ShowDialog();
         }
+
+        private void frmPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Productosbutton_Click(object sender, EventArgs e)
+        {
+            frmProductos frm = new frmProductos();  
+            frm.ShowDialog();
+        }
+
+        private void SociosButton_Click(object sender, EventArgs e)
+        {
+            frmSocios frm = new frmSocios();
+            frm.ShowDialog();
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace CiberKiosco
         {
             InitializeComponent();
         }
+
+        private void CiberdataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

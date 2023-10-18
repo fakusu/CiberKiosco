@@ -1,0 +1,6 @@
+G:\Ifdyt\Seminario\Ciber\CiberKiosco.Entidades\bin\Debug\CiberKiosco.Entidades.dll
+G:\Ifdyt\Seminario\Ciber\CiberKiosco.Entidades\bin\Debug\CiberKiosco.Entidades.pdb
+G:\Ifdyt\Seminario\Ciber\CiberKiosco.Entidades\obj\Debug\CiberKiosco.Entidades.csproj.AssemblyReference.cache
+G:\Ifdyt\Seminario\Ciber\CiberKiosco.Entidades\obj\Debug\CiberKiosco.Entidades.csproj.CoreCompileInputs.cache
+G:\Ifdyt\Seminario\Ciber\CiberKiosco.Entidades\obj\Debug\CiberKiosco.Entidades.dll
+G:\Ifdyt\Seminario\Ciber\CiberKiosco.Entidades\obj\Debug\CiberKiosco.Entidades.pdb

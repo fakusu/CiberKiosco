@@ -28,46 +28,67 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.Ciberbutton = new System.Windows.Forms.Button();
+            this.Productosbutton = new System.Windows.Forms.Button();
+            this.SociosButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // Ciberbutton
             // 
-            this.button1.Location = new System.Drawing.Point(31, 52);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 53);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.Ciberbutton.BackColor = System.Drawing.Color.LavenderBlush;
+            this.Ciberbutton.Location = new System.Drawing.Point(31, 52);
+            this.Ciberbutton.Name = "Ciberbutton";
+            this.Ciberbutton.Size = new System.Drawing.Size(75, 53);
+            this.Ciberbutton.TabIndex = 0;
+            this.Ciberbutton.Text = "Ciber";
+            this.Ciberbutton.UseVisualStyleBackColor = false;
+            this.Ciberbutton.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // Productosbutton
             // 
-            this.button2.Location = new System.Drawing.Point(158, 52);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 53);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.Productosbutton.BackColor = System.Drawing.Color.LavenderBlush;
+            this.Productosbutton.Location = new System.Drawing.Point(158, 52);
+            this.Productosbutton.Name = "Productosbutton";
+            this.Productosbutton.Size = new System.Drawing.Size(75, 53);
+            this.Productosbutton.TabIndex = 1;
+            this.Productosbutton.Text = "Productos";
+            this.Productosbutton.UseVisualStyleBackColor = false;
+            this.Productosbutton.Click += new System.EventHandler(this.Productosbutton_Click);
+            // 
+            // SociosButton
+            // 
+            this.SociosButton.BackColor = System.Drawing.Color.LavenderBlush;
+            this.SociosButton.Location = new System.Drawing.Point(281, 52);
+            this.SociosButton.Name = "SociosButton";
+            this.SociosButton.Size = new System.Drawing.Size(75, 53);
+            this.SociosButton.TabIndex = 2;
+            this.SociosButton.Text = "Socios";
+            this.SociosButton.UseVisualStyleBackColor = false;
+            this.SociosButton.Click += new System.EventHandler(this.SociosButton_Click);
             // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(278, 163);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.BackColor = System.Drawing.Color.SlateGray;
+            this.ClientSize = new System.Drawing.Size(405, 163);
+            this.Controls.Add(this.SociosButton);
+            this.Controls.Add(this.Productosbutton);
+            this.Controls.Add(this.Ciberbutton);
+            this.ForeColor = System.Drawing.Color.Black;
             this.Name = "frmPrincipal";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Menu Principal";
+            this.Load += new System.EventHandler(this.frmPrincipal_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button Ciberbutton;
+        private System.Windows.Forms.Button Productosbutton;
+        private System.Windows.Forms.Button SociosButton;
     }
 }
 
